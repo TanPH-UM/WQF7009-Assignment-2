@@ -1,0 +1,6 @@
+data/
+*.pt
+figures/
+.venv/
+.ipynb_checkpoints/
+.DS_Store
